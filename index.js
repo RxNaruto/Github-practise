@@ -8,5 +8,5 @@ const hello3=()=>{
     console.log("hi this is from hello3")
 }
 const hello4=()=>{
-    console.log("hi this is hello from 4");
+    console.log("hi this is hello from 4")
 }
